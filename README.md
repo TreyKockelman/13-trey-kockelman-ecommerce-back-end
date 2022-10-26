@@ -19,5 +19,5 @@
   If you have any questions feel free to go to my github account [TreyKockelman](https://github.com/TreyKockelman) or email me at [kockelmant@gmail.com](kockelmant@gmail.com).
 
   ## Demo Video
-  [Demo](https://app.castify.com/watch/3fcf0283-c480-40c2-ab4e-7f8228f8943c)
+  [Demo](https://drive.google.com/file/d/1bc8vzjjyL3DCd4b_Bk6FYZ7SVVKH8NYd/view)
   
